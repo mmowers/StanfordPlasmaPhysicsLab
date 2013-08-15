@@ -1,0 +1,46 @@
+.main-pic{
+  margin-top: 50px;
+  text-align: center;
+}
+.main-pic img{
+  /*max-height: 350px; */
+  width: 100%;
+}
+.front-lower-pic img{
+  max-height: 300px;
+}
+.front-lower-vid{
+  position: relative;
+  padding-bottom: 80%;
+  /*padding-bottom: 56.25%;*/
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+.front-lower-vid iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;  
+}
+
+.marketing p{
+  min-height: 130px;
+}
+.marketing .well{
+  text-align: center;
+}
+
+
+/*cardinal #BD2031 #C41E3A*/
+/*.navbar .navbar-inner {
+  background-color: #990000;
+  background-image: linear-gradient(to bottom, #BD2031, #990000);
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav > li > a {
+    color: #FFFFFF;
+}*/
+
+
